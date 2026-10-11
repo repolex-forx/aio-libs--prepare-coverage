@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/aio-libs/prepare-coverage/commit/4a1ef3620e2cfa54e7fe18f71488df7904f0578d",
       "git:hexsha": "4a1ef3620e2cfa54e7fe18f71488df7904f0578d",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/aio-libs/prepare-coverage/commit/91813428ddff80cf8c1e3f4bd62816253d2f51b3",
