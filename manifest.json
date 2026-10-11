@@ -1,0 +1,28 @@
+{
+  "manifest_version": "1.0",
+  "org": "aio-libs",
+  "repo": "prepare-coverage",
+  "versions": [
+    {
+      "commit": "4a1ef3620e2cfa54e7fe18f71488df7904f0578d",
+      "parsed_at": "2026-10-11T05:35:29.048938+00:00",
+      "filetree": "filetree/4a1ef3620e2cfa54e7fe18f71488df7904f0578d.nq.gz",
+      "blobs": [
+        "blob/a99709f7170210ea9a1153178fd042ed0c374482.nq.gz",
+        "blob/ca26e3b7c30538a15e19c88d6ba84f0d144c3a0f.nq.gz",
+        "blob/125ffc0dbddf1d48ca406d03624ce69bcb87ecbe.nq.gz",
+        "blob/8cbf2519d5a312c64f78a77cf4112271396f3016.nq.gz",
+        "blob/a4ba56349dc9330702121015b20d8d724ff4c731.nq.gz",
+        "blob/261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64.nq.gz",
+        "blob/45fa05c268577aa14858f034717b0737df3b1d26.nq.gz",
+        "blob/ae8dd8e88a6d4126e24f3dbf20aefa95413f9f73.nq.gz",
+        "blob/9863b8414ed03d602d6bf0b448c2cbf2978ff815.nq.gz",
+        "blob/b6e47617de110dea7ca47e087ff1347cc2646eda.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
